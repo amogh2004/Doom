@@ -18,17 +18,8 @@ Works with [Python 2.7](https://www.python.org/download/releases/2.7/) only!
 <hr>
 
 <span>
-  <img src="https://github.com/amogh2004/Self-Driving-Car/blob/master/images/Screenshot%202020-07-29%20at%2012.03.45%20PM.png" alt="Route1" width="450" height=225">
+  <img src="https://github.com/amogh2004/Doom/blob/master/images/Screenshot%202020-08-07%20at%204.06.58%20PM.png" alt="Route1" width="450" height=225">
 </span>                                                                                                                      
 <span>
-  <img src="https://github.com/amogh2004/Self-Driving-Car/blob/master/images/Screenshot%202020-07-29%20at%2012.03.58%20PM.png" alt="Graph1" width="450" height="225">
-</span>
-
-<hr>
-
-<span>
-  <img src="https://github.com/amogh2004/Self-Driving-Car/blob/master/images/Screenshot%202020-07-29%20at%2012.04.16%20PM.png" alt="Route2" width="450" height=225">
-</span>                                                                                                                      
-<span>
-  <img src="https://github.com/amogh2004/Self-Driving-Car/blob/master/images/Screenshot%202020-07-29%20at%2012.04.24%20PM.png" alt="Graph2" width="450" height="225">
+  <img src="https://github.com/amogh2004/Doom/blob/master/images/Screenshot%202020-08-07%20at%204.08.11%20PM.png" alt="Graph1" width="450" height="225">
 </span>
